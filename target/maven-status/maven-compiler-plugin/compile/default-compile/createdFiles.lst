@@ -1,0 +1,3 @@
+com\jsf\jpa\crud\SchoolBean.class
+com\jsf\jpa\crud\SchoolEntityManager.class
+com\jsf\jpa\crud\db\operations\DatabaseOperations.class
